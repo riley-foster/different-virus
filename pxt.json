@@ -1,7 +1,8 @@
 {
     "name": "Different Virus",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "GitHub": "github:pranavcheraku/github#master"
     },
     "description": "",
     "files": [
